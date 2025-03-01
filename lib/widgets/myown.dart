@@ -67,6 +67,7 @@ TextEditingController username=TextEditingController();
             TextField(
               keyboardType: TextInputType.number,
               controller:passwordcontroller ,
+               obsucreText:true,
               decoration: InputDecoration(
                 labelText: 'password',
                 hintText: 'enter your password',
