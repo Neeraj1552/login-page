@@ -51,7 +51,7 @@ TextEditingController username=TextEditingController();
             ),
             ),
             SizedBox(
-              height: 20,
+              height: 22,
             ),
             TextField(
               controller:username ,
@@ -61,7 +61,7 @@ TextEditingController username=TextEditingController();
               ),
             ),
             SizedBox(
-              height: 20,
+              height: 22,
             ),
 
             TextField(
