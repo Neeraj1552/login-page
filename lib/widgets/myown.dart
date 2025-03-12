@@ -7,7 +7,7 @@ class Login extends StatelessWidget {
 
 
 String name="neeraj";
-int password=1234;
+int password=123;
 TextEditingController username=TextEditingController();
  TextEditingController passwordcontroller=TextEditingController();
 
